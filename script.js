@@ -1,4 +1,4 @@
-const phoneNumber = '+916386416965';
+const phoneNumber = '';
 const githubUsername = document.getElementById('github-username');
 
 githubUsername.addEventListener('click', () => {
